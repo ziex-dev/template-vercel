@@ -1,0 +1,13 @@
+{
+  "name": "ziex_app",
+  "type": "module",
+  "scripts": {
+    "build": "vercel build",
+    "deploy": "vercel deploy --prebuilt"
+  },
+  "devDependencies": {
+    "vercel": "^50.37.3",
+    "@ziex/cli": "0.1.0-dev.928",
+    "@zigc/cli": "0.15.20"
+  }
+}
