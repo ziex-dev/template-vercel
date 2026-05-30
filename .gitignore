@@ -1,0 +1,9 @@
+.zig-cache/
+zig-out/
+zig-pkg/
+!zig-out/pkg/**/*.d.ts
+node_modules/
+
+# Vercel
+.vercel
+.env*.local
