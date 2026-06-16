@@ -1,0 +1,16 @@
+# Zig
+.zig-cache
+zig-out
+
+# Ziex
+/dist
+/bundle
+
+# Node.js
+node_modules
+
+# Vercel
+.vercel
+
+# Vercel Node.js - Remove if you want to use Node.js runtime
+api/nodejs.ts 
